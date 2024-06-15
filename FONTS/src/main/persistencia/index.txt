@@ -1,0 +1,13 @@
+----------------------Directorio persistencia-------------------------
+
+Este directorio contiene las clases (.java) de la persistencia. Para
+probar estas clases ejecuta el driver de Persistencia ubicado en la
+carpeta drivers.
+
+Elementos del directorio:
+
+- CtrlPersistencia.java:
+	Contiene el codigo del controlador de persistencia
+
+- GestorCSV.java:
+	Contiene el codigo del GestorCSV

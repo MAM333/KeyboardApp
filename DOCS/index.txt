@@ -1,0 +1,22 @@
+-------------------Directorio DOCS-------------------
+
+Este directorio contiene la documentacion mas relevante 
+de la primera entrega.
+
+Elementos del directorio
+
+- enunciado:
+	Contiene el enunciado del proyecto 2023-2024
+
+- normativa:
+	Contiene la normativa de PROP
+
+- QAPDocumentacion:
+	Contiene la documentacion de QAP
+
+- rubrica:
+	Contiene la informacion de los metodos de evaluacion
+
+- ManualDeUsuario.pdf:
+	Contiene el manual de usuario necesario para entender como utilizar el
+	programa

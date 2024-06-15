@@ -1,0 +1,14 @@
+----------------------Directorio main-----------------------
+
+Este directorio contiene las capas del proyecto.
+
+Elementos del directorio
+
+- dominio/:
+	Contiene el codigo de las clases del dominio
+
+- persistencia/:
+	Contiene el codigo de las clases de la persistencia
+
+- presentacion/:
+	Contiene el codigo de las clases de la presentacion
